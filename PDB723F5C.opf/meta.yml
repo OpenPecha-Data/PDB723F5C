@@ -1,0 +1,13 @@
+id: PDB723F5C
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,09: Kośāmbakavastu'
+  language: bo
+  volumes:
+    33a8ca76835e4c87b3bb76e3e8d6369a:
+      title: Kośāmbakavastu
+      base_file: Kośāmbakavastu.txt
+      work_id: WE329FE46
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:18:54.151073'
+last_modified_at: '2022-03-01T22:18:54.151093'
